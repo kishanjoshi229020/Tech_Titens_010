@@ -12,37 +12,43 @@ The bank wants to improve their services. For instance, the bank managers have o
 <H3>Description</H3>
 This project analyzes bank client data—including transactions, loans, and credit cards—to classify clients who may be at risk of default. Additionally, the project examines economic disparities across districts and identifies patterns of loan risk to derive insights that can enhance loan approval processes.
 
-Key Features:
+<H2>Key Features:</H2>
 Client classification based on financial behavior.
 Analysis of economic disparities by district to tailor loan products.
 Identification of loan risk patterns.
 Recommendations for improving loan approval processes based on findings.
-Project Structure
-1. Data Understanding
+
+<H2>Project Structure</H2>
+<H3>1. Data Understanding</H3>
 Data Sources: Bank client data, transactions, loans, credit cards, and district information.
 Goal: Understand relationships between datasets, examine attribute names, content, and ranges.
-2. Data Preparation
+
+<H3>2. Data Preparation</H3>
 Renaming Attributes: Ensure column names are meaningful and consistent across datasets.
 Extracting Key Information:
 Extract client age and sex from birth numbers.
 Handling Missing Data:
 Replace missing values in District D69 with the average values from other districts.
 Sanctions Information: Identify accounts with a history of sanctions by analyzing transaction data.
-3. Analysis
-a. Client Classification
+
+<H3>3. Analysis</H3>
+<H4>a. Client Classification</H4>
 Objective: Identify clients at risk of default based on account balance.
 Methodology: Determine how many times the balance in their account fell below industry standards and flag clients accordingly.
-b. Economic Disparities
-Objective: Analyze salary and balance disparities across different districts.
-Methodology:
+<H4>b. Economic Disparities</H4>
+
+,H2>Objective: Analyze salary and balance disparities across different districts.</H2>
+
+<H3>Methodology:</H3>
 Compare average salaries and account balances across districts.
 Highlight regions with higher and lower average salaries, such as:
 High-salary districts: 'Hl.m. Praha', 'Mlada Boleslav', 'Plzen - mesto', etc.
 Balanced districts: Chomutov, Zlin, Pardubice, etc.
 Tailor loan products based on the economic profile of each district.
-c. Risk Patterns
+<H4>c. Risk Patterns</H4>
 Objective: Identify risk patterns in loan performance.
-Key Risk Indicators:
+
+<H3>Key Risk Indicators:<H3>
 Loan amount.
 Loan duration.
 Insight: Larger and longer-term loans pose higher risks, requiring stricter credit checks and potentially more collateral.
