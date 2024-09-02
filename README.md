@@ -120,4 +120,7 @@ Understanding the attribute’s content meaning (possible values of each attribu
 <H2>Transaction Amount by Transaction Type</H2>
 <img src="https://github.com/user-attachments/assets/71538115-d1fb-426e-974e-790088973f15" alt="Sample Image" style="max-width: 100%;">
 
+<H2>Transaction Amount by Transaction Type</H2>
+<img src="https://github.com/user-attachments/assets/a94587a5-d3ab-4a29-95ce-e56de24cfa04" alt="Sample Image" style="max-width: 100%;">
+![image](https://github.com/user-attachments/assets/a94587a5-d3ab-4a29-95ce-e56de24cfa04)
 
