@@ -7,6 +7,12 @@ The bank wants to improve their services. For instance, the bank managers have o
 </div>
 <img src="https://github.com/user-attachments/assets/0b6c6e3d-0d68-4f2d-9d8f-9f111acd3355" alt="Sample Image" style="max-width: 100%;">
 
+<img src="https://github.com/user-attachments/assets/b1b14e9e-d4bd-44a0-b688-48167d33d1a7" alt="Sample Image" style="max-width: 100%;">
+
+<img src="https://github.com/user-attachments/assets/0e99769f-3077-4148-92c7-7bc0816ebae3" alt="Sample Image" style="max-width: 100%;">
+
+
+
 <h2>Client Classification and Economic Disparity Analysis for Financial Risk Management</h2><br/>
 <H3>Description</H3>
 This project analyzes bank client data—including transactions, loans, and credit cards—to classify clients who may be at risk of default. Additionally, the project examines economic disparities across districts and identifies patterns of loan risk to derive insights that can enhance loan approval processes.
@@ -144,3 +150,8 @@ Understanding the attribute’s content meaning (possible values of each attribu
 
 Conclusion:
 This project goes beyond merely applying discovery tools by providing a comprehensive strategy that utilizes data analytics, predictive modeling, and actionable insights to improve the bank's services. This data-driven approach will ultimately enhance customer relationships, increase profitability, and minimize financial risks.
+
+<div align="center">
+<H2>Average Order Amount by Transaction Type</H2>
+</div>
+<img src="https://github.com/user-attachments/assets/8286b4a5-61d7-4ffd-894b-d1d0414eed83" alt="Sample Image" style="max-width: 100%;">
