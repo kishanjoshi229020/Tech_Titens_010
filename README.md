@@ -8,8 +8,8 @@ The bank wants to improve their services. For instance, the bank managers have o
 <img src="https://github.com/user-attachments/assets/0b6c6e3d-0d68-4f2d-9d8f-9f111acd3355" alt="Sample Image" style="max-width: 100%;">
 
 <h2>Client Classification and Economic Disparity Analysis for Financial Risk Management</h2><br/>
-
-Description
+<h2>Client Classification and Economic Disparity Analysis for Financial Risk Management</h2><br/>
+<H3>Description</H3>
 This project analyzes bank client data—including transactions, loans, and credit cards—to classify clients who may be at risk of default. Additionally, the project examines economic disparities across districts and identifies patterns of loan risk to derive insights that can enhance loan approval processes.
 
 Key Features:
