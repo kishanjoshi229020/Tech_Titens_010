@@ -23,7 +23,7 @@ alt.themes.enable("dark")
 
 
 # Correct CSV export URL using the File ID
-csv_url = "C:/Users/HP/Downloads/loan_dataset.xls"
+csv_url = "https://docs.google.com/spreadsheets/d/1V-Stq0i1ulKiTx0Co-3QgT7qAcT84S9T/export?format=csv"
 
 # Load the data into a pandas DataFrame
 data = pd.read_csv(csv_url)
