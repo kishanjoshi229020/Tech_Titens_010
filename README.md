@@ -140,7 +140,10 @@ Understanding the attribute’s content meaning (possible values of each attribu
 <div align="center">
 <H2>Average Order Amount by Transaction Type</H2>
 </div>
-
 <img src="https://github.com/user-attachments/assets/8286b4a5-61d7-4ffd-894b-d1d0414eed83" alt="Sample Image" style="max-width: 100%;">
 
 
+<div align="center">
+<H2>Client Transaction by District</H2>
+</div>
+<img src="https://github.com/user-attachments/assets/79130d63-fa21-46eb-b659-8d0847e0a88f
