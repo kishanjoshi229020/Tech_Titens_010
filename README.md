@@ -114,13 +114,28 @@ Understanding the attribute’s content meaning (possible values of each attribu
 <div align="center">
 <h1>Charts</h1>
 </div>
+<div align="center">
 <H2>Distribution Of Client by Age</H2>
+</div>
 <img src="https://github.com/user-attachments/assets/486fd6b2-2cb8-48fc-9b23-cb85d817fdba" alt="Sample Image" style="max-width: 100%;">
 
+<div align="center">
 <H2>Transaction Amount by Transaction Type</H2>
+</div>
 <img src="https://github.com/user-attachments/assets/71538115-d1fb-426e-974e-790088973f15" alt="Sample Image" style="max-width: 100%;">
 
+<div align="center">
 <H2>Transaction Amount by Transaction Type</H2>
+</div>
 <img src="https://github.com/user-attachments/assets/a94587a5-d3ab-4a29-95ce-e56de24cfa04" alt="Sample Image" style="max-width: 100%;">
 ![image](https://github.com/user-attachments/assets/a94587a5-d3ab-4a29-95ce-e56de24cfa04)
+
+
+<div align="center">
+<H2>Number of cards issued Overtime</H2>
+</div>
+<img src="https://github.com/user-attachments/assets/69865db5-fec0-413b-950a-545e2527bae4" alt="Sample Image" style="max-width: 100%;">
+
+
+
 
