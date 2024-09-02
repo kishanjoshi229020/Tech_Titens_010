@@ -5,4 +5,4 @@ The bank wants to improve their services. For instance, the bank managers have o
 <div align="center">
 <h1>DashBoard</h1>
 </div>
-![image](https://github.com/user-attachments/assets/0b6c6e3d-0d68-4f2d-9d8f-9f111acd3355)
+<img src="https://github.com/user-attachments/assets/0b6c6e3d-0d68-4f2d-9d8f-9f111acd3355" alt="Sample Image" style="max-width: 100%;">
