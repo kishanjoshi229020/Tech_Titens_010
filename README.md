@@ -8,7 +8,6 @@ The bank wants to improve their services. For instance, the bank managers have o
 <img src="https://github.com/user-attachments/assets/0b6c6e3d-0d68-4f2d-9d8f-9f111acd3355" alt="Sample Image" style="max-width: 100%;">
 
 <h2>Client Classification and Economic Disparity Analysis for Financial Risk Management</h2><br/>
-<h2>Client Classification and Economic Disparity Analysis for Financial Risk Management</h2><br/>
 <H3>Description</H3>
 This project analyzes bank client data—including transactions, loans, and credit cards—to classify clients who may be at risk of default. Additionally, the project examines economic disparities across districts and identifies patterns of loan risk to derive insights that can enhance loan approval processes.
 
@@ -37,40 +36,52 @@ Objective: Identify clients at risk of default based on account balance.
 Methodology: Determine how many times the balance in their account fell below industry standards and flag clients accordingly.
 <H4>b. Economic Disparities</H4>
 
-,H2>Objective: Analyze salary and balance disparities across different districts.</H2>
+Objective: Analyze salary and balance disparities across different districts.
 
-<H3>Methodology:</H3>
+<H4>Methodology:</H4>
+
 Compare average salaries and account balances across districts.
 Highlight regions with higher and lower average salaries, such as:
+
 High-salary districts: 'Hl.m. Praha', 'Mlada Boleslav', 'Plzen - mesto', etc.
+
 Balanced districts: Chomutov, Zlin, Pardubice, etc.
+
 Tailor loan products based on the economic profile of each district.
+
 <H4>c. Risk Patterns</H4>
 Objective: Identify risk patterns in loan performance.
 
 <H3>Key Risk Indicators:<H3>
 Loan amount.
+  
 Loan duration.
+
 Insight: Larger and longer-term loans pose higher risks, requiring stricter credit checks and potentially more collateral.
 Code Sections
-1. Data Understanding
+
+<H3>1. Data Understanding</H3>
 Loading and Cleaning Datasets:
 Load client, transaction, loan, credit card, and district data.
 Clean datasets to ensure proper relationships between them.
-2. Data Preparation
+
+<H3>2. Data Preparation</H3>
 Renaming Columns:
 Ensure columns have meaningful names.
 Extracting Information:
 Extract age and gender information from birth numbers.
 Handling Missing Data:
 Replace missing values in districts with averages.
-3. Client Classification
-Classifying Clients:
+
+<H3>3. Client Classification</H3>
+<H4>Classifying Clients:</H4>
 Identify clients who are at risk of default based on their account balances and how often the balance falls below the threshold.
-4. Economic Disparities
+
+<H3>4. Economic Disparities</H3>
 Analyzing District-Level Disparities:
 Compare average salaries and balance trends across districts to highlight economic differences and adapt loan offerings accordingly.
-5. Risk Patterns
+
+<H3>5. Risk Patterns</H3>
 Loan Performance Analysis:
 Analyze the risk of loans based on the amount and duration to identify high-risk loans and improve the bank's risk management strategies.
 
