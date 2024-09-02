@@ -111,5 +111,12 @@ Understanding the attribute’s “names” and their meaning
 Understanding the attribute’s content meaning (possible values of each attribute like the range and type
 
 
+<div align="center">
+<h1>Charts</h1>
+</div>
+<H2>Distribution Of Client by Age</H2>
+![image](https://github.com/user-attachments/assets/486fd6b2-2cb8-48fc-9b23-cb85d817fdba)
+
+
 
 
