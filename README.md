@@ -7,6 +7,7 @@ The bank wants to improve their services. For instance, the bank managers have o
 </div>
 <img src="https://github.com/user-attachments/assets/0b6c6e3d-0d68-4f2d-9d8f-9f111acd3355" alt="Sample Image" style="max-width: 100%;">
 
+
 <img src="https://github.com/user-attachments/assets/b1b14e9e-d4bd-44a0-b688-48167d33d1a7" alt="Sample Image" style="max-width: 100%;">
 <img src="https://github.com/user-attachments/assets/0e99769f-3077-4148-92c7-7bc0816ebae3" alt="Sample Image" style="max-width: 100%;">
 
