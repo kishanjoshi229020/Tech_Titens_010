@@ -99,7 +99,7 @@ Data Preparation
 Renaming attribute’s names for more meaningful keywords. Spreadsheet “Demographic Data” Extract implicit knowledge Extract “birthdate” and “sex” from clients birth number Extract client age from birth number Eliminate incoherence provoked by empty files District D69 had missing values that were replace by average value of all other districts Retrieve useful information from “transaction” datasheet. Ex.: Accounts with history of sanctions
 
 <H1>SOME DETAILED SUMMARY
-</H1>H1>
+</H1>
 
 <H2>Data Understanding</H2>
 Business is based of operations in any regular bank such as transactions, clients, credit cards and loans.
