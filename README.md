@@ -117,5 +117,7 @@ Understanding the attribute’s content meaning (possible values of each attribu
 <H2>Distribution Of Client by Age</H2>
 <img src="https://github.com/user-attachments/assets/486fd6b2-2cb8-48fc-9b23-cb85d817fdba" alt="Sample Image" style="max-width: 100%;">
 
+<H2>Transaction Amount by Transaction Type</H2>
+<img src="https://github.com/user-attachments/assets/71538115-d1fb-426e-974e-790088973f15" alt="Sample Image" style="max-width: 100%;">
 
 
